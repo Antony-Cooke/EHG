@@ -40,7 +40,7 @@ h4 {
 
 h5 {
     color: black;
-    font-size: 2vw;
+    font-size: 1.5vw;
     text-decoration: underline;
     text-align: center;
 }
@@ -48,9 +48,27 @@ h5 {
 h6 {
     color: black;
     font-size: 1.5vw;
-    text-align: left;
 }
 
 body {
-    background-color: antiquewhite;
+    background-color: white;
+}
+
+.bgc {
+    background-color: white;
+}
+
+.club {
+    width: 300px;
+    height: 150px;
+}
+
+.link_button {
+    width:42px;
+    height:42px;
+    border:0;
+}
+
+.middle {
+    text-align: center;
 }
