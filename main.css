@@ -36,7 +36,7 @@ h3 {
 }
 
 h4 {
-    color: purple;
+    color: yellow;
     font-size: 2vw;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
@@ -54,11 +54,11 @@ h6 {
 }
 
 body {
-    background-color: white;
+    background-color: rgba(41, 1, 41, 0.9);
 }
 
 .bgc {
-    background-color: white;
+    background-color: rgba(41, 1, 41, 0.8);
 }
 
 .club {
